@@ -28,7 +28,7 @@ Bare Metal  →  FreeRTOS  →  Zephyr  →  (고신뢰) VxWorks / QNX
 | FreeRTOS | 2003 | 선점형  <br>RTOS 커널 | 오픈소스 | MCU | 결정적(Deterministic) |
 | VxWorks | 1987 | 모놀리식  <br>상용 RTOS | 상용(고가) | MCU/프로세서 | Hard RT, 마이크로초급 |
 | Embedded Linux | 1991 <br>(Linux 커널) | 범용 OS 기반 | 오픈소스 | Cortex-A급 AP | Soft RT  <br>(PREEMPT_RT  <br>패치 시 개선) |
-| Zephyr | 2016 | 모듈형  <br>RTOS 플랫폼 | 오픈소스 | MCU (ARM Cortex-M, RISC-V, ESP32) | RTOS급 |
+| Zephyr | 2016 | 모듈형  <br>RTOS 플랫폼 | 오픈소스 | MCU (ARM Cortex-M,  <br>RISC-V, ESP32) | RTOS급 |
 | QNX | 1980 | 마이크로커널  <br>상용 RTOS | 상용(고가) | 고성능 SoC | Hard RT |
 
 ---
