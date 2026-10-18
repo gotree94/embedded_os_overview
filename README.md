@@ -1,6 +1,6 @@
 # 임베디드 운영체제 한눈에 보기
 
-> 출처: YouTube "Every Embedded Operating System Explained in 9 Minutes" (https://youtu.be/R7dhNELFc9A) 자막 기반 정리
+> 출처: YouTube "Every Embedded Operating System Explained in 9 Minutes" (https://youtu.be/R7dhNELFc9A) 자막 기반 정리 <br>
 > 자막의 음성 인식 오류(예: VEX Works → VxWorks, Free Arts → FreeRTOS, Zephr → Zephyr)는 바로잡아 반영했습니다.
 
 ---
